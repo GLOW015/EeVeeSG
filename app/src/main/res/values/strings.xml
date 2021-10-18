@@ -74,4 +74,10 @@
     <string name="fnb">Food &amp; Beverages</string>
     <string name="retail">Retail</string>
     <string name="view_discounts">View Discounts</string>
+    <string name="claim">Claim</string>
+    <string name="voucher_example">$10 OFF Charging Station</string>
+    <string name="points_example">200 Points</string>
+    <string name="voucher_qr">Voucher QR Code</string>
+    <string name="scan_voucher">Scan To Claim Vouchers</string>
+    <string name="qr_info">QR ID</string>
 </resources>
